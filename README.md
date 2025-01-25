@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm f14my
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">FullStack developer from Belgium 🇧🇪</h3>
+<h3 align="center">FullStack developer from Belgium🇧🇪</h3>
 
 
 - FullStack python and js developer 🌐
