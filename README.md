@@ -15,8 +15,6 @@
 
 
 
-[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=f14my-xd&count_private=true&show_icons=true&theme=dracula)](https://github.com/f14my-xd)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f14my-xd&layout=compact&theme=dracula)](https://github.com/f14my-xd)
 
 
 
